@@ -1,7 +1,7 @@
 
 
 
-Various blocklist resources, currently testing
+Various blocklist resources, currently testing it
 
 
 
